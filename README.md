@@ -15,8 +15,10 @@
 
 
 ## Usage
-
- - run npm start
+### SetUp
+ ```run yarn install```
+### Start
+```run yarn dev```
 
 ## Author
 
